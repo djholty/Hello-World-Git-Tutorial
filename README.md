@@ -5,3 +5,5 @@ It focuses mainly on git and github
 This repository is built step by step in the tutorial.
 
 It now includes steps for GIthub
+
+Git can be a bit complex to learn at first
